@@ -3,6 +3,7 @@
 ## Websites for Practicing Competitive Coding:
 
 * ### Practice Programming Language and Learning basic DSA:
+    - [a2oj Ladder for beginners](https://a2oj.com/Ladder11.html)
     - [Hackerrank Practice](https://www.hackerrank.com/dashboard)
     - [HackerEarth Practice](https://www.hackerearth.com/practice/)
     - [CodeSignal Practice](https://codesignal.com/)
