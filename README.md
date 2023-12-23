@@ -1,4 +1,4 @@
-# CompetitiveCoding
+# Data Structure and Algorithms(DSA) Resources: 
 
 ## Websites for Practicing Competitive Coding:
 
@@ -14,17 +14,21 @@
     - [Codeforces Contests](https://codeforces.com/contests)
     - [Spoj Classical Problems](https://www.spoj.com/problems/classical/)
 
-* ### Placements Practice:
+
+* ### Resources for practicing for coding round of Companies:
     - [Leetcode Top Interview Questions](https://leetcode.com/problemset/top-interview-questions/)
     - [Leetcode Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/)
     - [GeeksforGeeks Must Do Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
     - [InterviewBit](https://www.interviewbit.com/)
+    - [Leetcode Blind 75 questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
-* ### Applying to Companies through online test:
+
+* ### Applying to Companies through the online test:
     - [Skillenza Activites](https://skillenza.com/activities)
     - [HackerEarth Challenges](https://www.hackerearth.com/challenges/)
     - [Techgig Challenges](https://www.techgig.com/challenge)
     - [GeekTrust Coding Challenges](https://www.geektrust.in/coding-problem)
+
 
 * ### Youtube-Tutorials
    - [Cracking the Coding Interview Author Gayle Lckmann McDowell](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
